@@ -1,0 +1,13 @@
+# Automation Framework
+pytest-playwright
+pytest
+
+# Deep Learning & Image Processing
+tensorflow
+numpy
+scikit-learn
+Pillow
+ImageHash
+
+# Optional: Enhanced Visual Testing Utilities
+pytest-playwright-visual
